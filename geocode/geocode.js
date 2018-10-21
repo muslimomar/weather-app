@@ -29,7 +29,6 @@ geocodeAddress = (address, callback) => {
 
 };
 
-//4b4ce55d2bb3b374be10b939d7fff492
 
 module.exports = {
   geocodeAddress
